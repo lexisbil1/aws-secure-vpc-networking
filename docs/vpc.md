@@ -1,6 +1,6 @@
 # VPC Configuration Documentation
 
-Detailed technical reference for the VPC deployed in this project thus CIDR allocation, subnets, gateways, route tables, and configuration steps. See [README.md](./README.md) for the project overview and architecture diagram.
+Detailed technical reference for the VPC deployed in this project thus CIDR allocation, subnets, gateways, route tables, and configuration steps. [README](https://github.com/lexisbil1/aws-secure-vpc-networking/blob/main/README.md) for the project overview and architecture diagram.
 
 ---
 
