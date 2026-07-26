@@ -18,9 +18,6 @@ The objective is to provide secure internet access to public-facing resources wh
 
 ## 🏗️ Architecture
 
-> 📌 *Insert your architecture diagram here (e.g. `docs/architecture-diagram.png`), then embed it below:*
-> `![Architecture Diagram](docs/architecture-diagram.png)`
-
 ```
                                    Internet
                                        │
